@@ -1,0 +1,14 @@
+
+.section1 {
+    padding: 10px;
+}
+
+
+.section2 .row{
+    padding: 5px;
+}
+
+
+.section2 .row .col-md-4 {
+    padding-top: 5px;
+} 
